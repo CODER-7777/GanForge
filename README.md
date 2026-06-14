@@ -19,10 +19,11 @@ This repository is organized progressively by weekly assignments, culminating in
 - **`Week_2/`**: Advanced scripting and analysis tasks.
 - **`Week_3/`**: Implementation of algorithms including Forward Substitution (FSI) and other mathematical modeling scripts.
 - **`Mid_Evaluation/Face_Mask_Detection/`**: The core highlight of this repository. A Convolutional Neural Network (CNN) built from scratch using PyTorch for Face Mask Detection.
+- **`EndEval/`**: The final group evaluation focusing on Generative AI, featuring CycleGAN (Monet-to-Photo) and Neural Style Transfer (Picasso-styled Mona Lisa).
 
 ---
 
-## 🌟 Highlight: Face Mask Detection (Mid-Evaluation)
+## Highlight: Face Mask Detection (Mid-Evaluation)
 
 **Description:**
 A Deep Learning Computer Vision project designed to detect whether individuals in an image are wearing face masks. The model is built entirely in **PyTorch** and leverages a custom Convolutional Neural Network (CNN) architecture.
@@ -38,7 +39,24 @@ A Deep Learning Computer Vision project designed to detect whether individuals i
 
 ---
 
-## 🚀 Getting Started
+## 🎨 Highlight: Generative AI & Style Transfer (End-Evaluation)
+
+**Description:**
+The culminating group project focusing on advanced Generative AI architectures. It implements CycleGAN for image-to-image translation (converting photos to Monet-style paintings) and leverages a pre-trained VGG19 model for Neural Style Transfer.
+
+**Key Features:**
+- **CycleGAN**: Bidirectional image translation trained on the `monet2photo` dataset.
+- **Neural Style Transfer**: A custom PyTorch implementation applying the artistic style of Pablo Picasso's *The Weeping Woman* to Leonardo da Vinci's *Mona Lisa*.
+- **Tech Stack**: Python, PyTorch, Torchvision, PIL, Matplotlib.
+
+**Files Included:**
+- `EndEval_code.ipynb`: The main notebook containing both the CycleGAN and Neural Style Transfer implementations.
+- `EndEval_Project1_doc.pdf`: Detailed project documentation.
+- `requirements.txt`: Environment dependencies.
+
+---
+
+## Getting Started
 
 To explore the projects or run the code locally:
 
