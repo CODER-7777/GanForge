@@ -1,0 +1,8 @@
+torch
+torchvision
+pillow
+matplotlib
+requests
+numpy
+dominate
+visdom
