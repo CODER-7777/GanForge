@@ -1,9 +1,17 @@
-# GanForge 🚀
+# GanForge
 **Indian Institute of Technology Kanpur (IITK) | ACA**
 
-Welcome to **GanForge**, a repository containing coursework, weekly assignments, and projects focused on Machine Learning, Deep Learning, and Generative AI. 
+Welcome to **GanForge**, a comprehensive repository documenting my journey through the **IIT Kanpur ACA Summer Project** on Machine Learning, Deep Learning, and Generative AI. 
 
-## 📂 Repository Structure
+This repository serves as a structured log of coursework, coding assignments, and hands-on projects designed to build foundational and advanced skills in artificial intelligence. Throughout this program, the focus transitions from basic data manipulation and mathematical modeling to implementing robust deep learning architectures (like CNNs) using PyTorch, and exploring the mechanics of Generative Adversarial Networks (GANs).
+
+**Key Learning Objectives Covered:**
+- **Foundational ML:** Data preprocessing, statistical modeling, and basic machine learning algorithms.
+- **Deep Learning Architectures:** Building and training neural networks from scratch using PyTorch.
+- **Computer Vision:** Image processing, feature extraction, and implementing CNNs for real-world tasks like face mask detection.
+- **Generative AI Concepts:** Understanding the underlying theory and application of modern generative models.
+
+## Repository Structure
 
 This repository is organized progressively by weekly assignments, culminating in a comprehensive Mid-Evaluation project.
 
